@@ -1,0 +1,3 @@
+Start searching
+View help
+Exit
